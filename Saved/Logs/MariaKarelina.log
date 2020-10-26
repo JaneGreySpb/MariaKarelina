@@ -1295,3 +1295,511 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.24-10.57.52:605][827]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/Platform1AFF223642C4517F8F35A09A2038985F.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset'
 [2020.10.24-10.57.52:617][827]AssetCheck: New page: Asset Save: Platform
 [2020.10.24-10.57.52:617][827]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Blueprints/Platform.Platform
+[2020.10.24-11.00.07:647][657]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.24-11.00.07:647][657]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.24-11.06.49:745][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.24-11.06.49:753][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../UE Projects/MariaKarelina/Saved/Autosaves/Game/Levels/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.24-11.06.49:804][259]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap_Auto1190B01C749DEB165A6E13E943BAFD538.tmp' to '../../../../../UE Projects/MariaKarelina/Saved/Autosaves/Game/Levels/NewMap_Auto1.umap'
+[2020.10.24-11.06.49:806][259]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/NewMap' took 0.102
+[2020.10.24-11.06.49:806][259]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.102
+[2020.10.24-11.11.00:848][912]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.24-11.11.00:848][912]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.24-11.11.12:212][552]BlueprintLog: New page: Compile Platform
+[2020.10.24-11.11.12:268][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.10.24-11.11.14:380][673]LogTemp: Repeating last play command: Standalone Game
+[2020.10.24-11.11.14:440][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.10.24-11.11.15:606][673]LogSlate: Window 'Save Content' being destroyed
+[2020.10.24-11.11.15:656][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.24-11.11.15:691][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.24-11.11.15:732][673]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMapCFC04FB84281356748C7BBBAEF62092A.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap'
+[2020.10.24-11.11.15:768][673]LogFileHelpers: Saving map 'NewMap' took 0.113
+[2020.10.24-11.11.15:769][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.10.24-11.11.15:835][673]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap_BuiltData87FA9C074F731CB8323DE39A233900B6.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset'
+[2020.10.24-11.11.15:847][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Standard/StarterContent/Blueprints/Platform" FILE="../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset" SILENT=true
+[2020.10.24-11.11.15:890][673]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/Platform96C4022547E88283251BEBAD25099CF6.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset'
+[2020.10.24-11.11.15:928][674]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.24-11.11.15:928][674]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.10.24-11.11.15:928][674]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.10.24-11.11.15:928][674]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Blueprints/Platform.Platform
+[2020.10.24-11.13.08:625][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Standard/StarterContent/Blueprints/Platform" FILE="../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset" SILENT=true
+[2020.10.24-11.13.08:654][814]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/Platform721278E64E2EE9CAE9D4379427B1C48B.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset'
+[2020.10.24-11.13.08:672][814]AssetCheck: New page: Asset Save: Platform
+[2020.10.24-11.13.08:672][814]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Blueprints/Platform.Platform
+[2020.10.24-11.13.08:978][831]BlueprintLog: New page: Compile Platform
+[2020.10.24-11.13.09:037][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.10.24-11.13.10:214][896]LogTemp: Repeating last play command: Standalone Game
+[2020.10.24-11.13.10:273][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.10.24-11.13.12:732][896]LogSlate: Window 'Save Content' being destroyed
+[2020.10.24-11.13.12:765][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.24-11.13.12:798][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.10.24-11.13.12:848][896]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMapF815CBAD47848B22B7DA1D8F5E1FD819.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap'
+[2020.10.24-11.13.12:893][896]LogFileHelpers: Saving map 'NewMap' took 0.128
+[2020.10.24-11.13.12:893][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.10.24-11.13.12:966][896]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap_BuiltDataA2ED26894402F68AD945128C940F8A54.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset'
+[2020.10.24-11.13.13:004][897]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.24-11.13.13:004][897]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.10.24-11.13.13:004][897]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.10.24-11.14.55:091][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Standard/StarterContent/Blueprints/Platform" FILE="../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset" SILENT=true
+[2020.10.24-11.14.55:128][693]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/Platform404497CD4106D80F8C81969A96B8894B.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset'
+[2020.10.24-11.14.55:150][693]AssetCheck: New page: Asset Save: Platform
+[2020.10.24-11.14.55:150][693]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Blueprints/Platform.Platform
+[2020.10.24-11.14.55:402][707]BlueprintLog: New page: Compile Platform
+[2020.10.24-11.14.55:495][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.10.24-11.14.56:975][787]LogTemp: Repeating last play command: Standalone Game
+[2020.10.24-11.14.57:039][787]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.10.24-11.14.58:082][787]LogSlate: Window 'Save Content' being destroyed
+[2020.10.24-11.14.58:120][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.24-11.14.58:155][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.10.24-11.14.58:197][787]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap054FB2DB4CEBF1830BF890A1490F79CB.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap'
+[2020.10.24-11.14.58:232][787]LogFileHelpers: Saving map 'NewMap' took 0.113
+[2020.10.24-11.14.58:233][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.10.24-11.14.58:304][787]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap_BuiltData6DFC231C4C02F9957A4429A9837A8386.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset'
+[2020.10.24-11.14.58:352][788]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.24-11.14.58:352][788]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.10.24-11.14.58:352][788]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.10.24-11.16.39:377][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Standard/StarterContent/Blueprints/Platform" FILE="../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset" SILENT=true
+[2020.10.24-11.16.39:418][189]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/Platform0BB1B61B4018A753B3E3B4BD9E554199.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset'
+[2020.10.24-11.16.39:444][189]AssetCheck: New page: Asset Save: Platform
+[2020.10.24-11.16.39:444][189]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Blueprints/Platform.Platform
+[2020.10.24-11.16.39:748][207]BlueprintLog: New page: Compile Platform
+[2020.10.24-11.16.39:821][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.10.24-11.16.48:387][673]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2020.10.24-11.17.17:698][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Standard/StarterContent/Blueprints/Platform" FILE="../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset" SILENT=true
+[2020.10.24-11.17.17:733][372]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/Platform7A06380C497038FC76766C8990D54344.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset'
+[2020.10.24-11.17.17:753][372]AssetCheck: New page: Asset Save: Platform
+[2020.10.24-11.17.17:753][372]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Blueprints/Platform.Platform
+[2020.10.24-11.17.18:008][387]BlueprintLog: New page: Compile Platform
+[2020.10.24-11.17.18:092][387]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.10.24-11.17.18:960][434]LogTemp: Repeating last play command: Standalone Game
+[2020.10.24-11.17.19:012][434]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.10.24-11.17.19:870][434]LogSlate: Window 'Save Content' being destroyed
+[2020.10.24-11.17.19:901][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.24-11.17.19:936][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.10.24-11.17.19:980][434]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap728026CF4D5787EBF637F9B229E9FD3B.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap'
+[2020.10.24-11.17.20:017][434]LogFileHelpers: Saving map 'NewMap' took 0.116
+[2020.10.24-11.17.20:018][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.10.24-11.17.20:108][434]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap_BuiltData8E064C7A42E823E844E2B4A3E5D0C8CD.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset'
+[2020.10.24-11.17.20:156][435]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.24-11.17.20:156][435]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.10.24-11.17.20:156][435]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.10.24-11.19.36:198][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x202)
+[2020.10.24-11.19.37:724][484]LogEditorViewport: Clicking on Actor (LMB): SM_Door_Blueprint_C (SM_Door_Blueprint)
+[2020.10.24-11.20.10:398][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x202)
+[2020.10.24-11.20.11:149][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x202)
+[2020.10.24-11.20.11:609][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AssetPlatform4)
+[2020.10.24-11.20.12:609][512]LogEditorViewport: Clicking on Actor (LMB): SK_FPGun_PhysicsAsset_Blueprint_C (SK_FPGun_PhysicsAsset_Blueprint)
+[2020.10.24-11.20.39:606][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2020.10.24-11.20.40:289][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.10.24-11.20.46:201][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.24-11.20.57:717][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2020.10.24-11.21.05:382][570]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.24-11.21.15:871][197]LogEditorViewport: Clicking on Actor (LMB): MedKitPack_C (MedKitPack)
+[2020.10.24-11.21.22:511][593]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.24-11.21.24:181][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.24-11.21.24:223][690]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.10.24-11.21.24:273][690]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap2B2287FD48B07F9FFF3EDE84EEDD7181.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap'
+[2020.10.24-11.21.24:314][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.10.24-11.21.24:384][690]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap_BuiltData7F00ACAD4EB6DD5600FDC9BFBB9FC068.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset'
+[2020.10.24-11.21.24:404][690]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.24-11.21.24:404][690]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.10.24-11.21.24:404][690]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.10.24-11.21.26:454][813]LogEditorViewport: Clicking on Actor (LMB): SK_FPGun_PhysicsAsset_Blueprint_C (SK_FPGun_PhysicsAsset_Blueprint)
+[2020.10.24-11.21.40:202][635]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.10.24-11.21.41:975][740]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.10.24-11.21.54:740][501]LogEditorViewport: Clicking on Actor (LMB): SK_FPGun_PhysicsAsset_Blueprint_C (SK_FPGun_PhysicsAsset_Blueprint)
+[2020.10.24-11.22.09:394][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.24-11.22.09:433][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.24-11.22.09:487][375]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMapFE22FAC3420E2E370EA9E29528063400.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap'
+[2020.10.24-11.22.09:527][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.10.24-11.22.09:610][375]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap_BuiltData7B3C2B3541BA9A603DAAD297CC362CEE.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset'
+[2020.10.24-11.22.09:628][375]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.24-11.22.09:628][375]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.10.24-11.22.09:628][375]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.10.24-11.22.10:703][437]MapCheck: New page: Map Check
+[2020.10.24-11.22.10:729][437]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.24-11.22.10:729][437]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.24-11.22.10:747][437]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=false
+[2020.10.24-11.22.10:768][437]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.10.24-11.22.10:768][437]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.10.24-11.22.10:768][437]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.10.24-11.22.10:804][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.10.24-11.22.10:806][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:808][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:810][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:811][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:813][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:815][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.10.24-11.22.10:829][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.10.24-11.22.10:829][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.10.24-11.22.10:829][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.10.24-11.22.10:829][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.10.24-11.22.10:829][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:830][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:833][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:834][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:836][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:837][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:839][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:841][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:843][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:845][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:846][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:850][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:854][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.10:859][437]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.24-11.22.19:352][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2020.10.24-11.22.19:352][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 83
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 82
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 81
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 80
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 79
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 78
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 77
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 73
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 71
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 68
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 65
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 59
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 57
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 49
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.10.24-11.22.19:353][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.10.24-11.22.19:354][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.10.24-11.22.19:354][437]TextureStreamingBuild: Display: Compiling optional shaders took 8.546 seconds.
+[2020.10.24-11.22.19:393][437]LogLevel: Display: Export Material TexCoord Scales took 0.040 seconds.
+[2020.10.24-11.22.19:398][437]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2020.10.24-11.22.19:444][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.10.24-11.22.19:448][437]LightingResults: New page: Lighting Build - 24 окт. 2020 г., 17:22:19
+[2020.10.24-11.22.19:461][437]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.24-11.22.19:466][437]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.24-11.22.19:467][437]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.24-11.22.19:468][437]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.24-11.22.19:468][437]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9848
+[2020.10.24-11.22.23:983][437]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.10.24-11.22.23:983][437]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.24-11.22.23:983][437]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.24-11.22.23:983][437]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.24-11.22.23:983][437]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.24-11.22.23:983][437]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.24-11.22.24:145][437]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.24-11.22.24:145][437]MapCheck: New page: NewMap - 24 окт. 2020 г., 17:22:24
+[2020.10.24-11.22.24:145][437]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.10.24-11.22.24:146][437]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,588ms to complete.
+[2020.10.24-11.22.24:148][437]LogEditorBuildUtils: Build time 0:13
+[2020.10.24-11.22.24:499][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.10.24-11.22.28:105][590]Job is a success!
+[2020.10.24-11.22.28:364][592]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.10.24-11.22.28:364][592]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.10.24-11.22.28:364][592]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2020.10.24-11.22.28:364][592]LogVolumetricLightmapImport:      Bricks at depth
+[2020.10.24-11.22.28:364][592]LogVolumetricLightmapImport:          0: 3.8% covering 100.0% of volume
+[2020.10.24-11.22.28:364][592]LogVolumetricLightmapImport:          1: 3.8% covering 1.6% of volume
+[2020.10.24-11.22.28:364][592]LogVolumetricLightmapImport:          2: 92.3% covering 0.6% of volume
+[2020.10.24-11.22.28:364][592]LogVolumetricLightmapImport:      Bricks in each level
+[2020.10.24-11.22.28:364][592]LogVolumetricLightmapImport:          NewMap 			 26 bricks 	 100.0% (Persistent Level)
+[2020.10.24-11.22.28:685][592]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.10.24-11.22.28:685][592]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.10.24-11.22.28:685][592]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.10.24-11.22.28:685][592]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.10.24-11.22.28:685][592]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.10.24-11.22.28:685][592]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.10.24-11.22.28:740][592]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2020.10.24-11.22.28:740][592]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X128)
+[2020.10.24-11.22.28:740][592]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X128)
+[2020.10.24-11.22.28:741][592]LogStaticLightingSystem: NewMap_BuiltData storing lightmap data for 17 meshes in 4 LightmapResourceClusters (4.3 Meshes per cluster).
+[2020.10.24-11.22.28:780][592]Lightmass on MSI: 3.54 sec total, 255 ms importing, 27 ms setup, 474 ms photons, 2.72 sec processing, 0 ms extra exporting [86/86 mappings]. Threads: 19.0 sec total, 6.44 sec processing.
+[2020.10.24-11.22.28:785][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.10.24-11.22.28:866][592]LogStaticLightingSystem: Illumination: 9.30 sec (310 ms encoding lightmaps, 33 ms encoding shadowmaps)
+[2020.10.24-11.22.28:866][592]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.0 MB streaming, 0.1 MB non-streaming), 6 textures
+[2020.10.24-11.22.28:866][592]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.10.24-11.22.28:989][592]DumpUnbuiltLightIteractions
+[2020.10.24-11.22.28:989][592]Lights with unbuilt interactions: 0
+[2020.10.24-11.22.28:989][592]
+[2020.10.24-11.22.28:989][592]Primitives with unbuilt interactions: 0
+[2020.10.24-11.22.29:074][593]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.24-11.22.29:074][593]MapCheck: New page: NewMap - 24 окт. 2020 г., 17:22:29
+[2020.10.24-11.22.29:074][593]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,374ms to complete.
+[2020.10.24-11.22.32:149][776]LogSlate: Window 'Message Log' being destroyed
+[2020.10.24-11.22.32:154][776]LogSlate: Window 'Message Log' being destroyed
+[2020.10.24-11.24.15:855][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Standard/StarterContent/Blueprints/Platform" FILE="../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset" SILENT=true
+[2020.10.24-11.24.15:888][727]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/PlatformB6F900234F77B96E0E4C0BB8165C6683.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Blueprints/Platform.uasset'
+[2020.10.24-11.24.15:908][727]AssetCheck: New page: Asset Save: Platform
+[2020.10.24-11.24.15:908][727]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Blueprints/Platform.Platform
+[2020.10.24-11.24.16:286][749]BlueprintLog: New page: Compile Platform
+[2020.10.24-11.24.16:361][749]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.10.24-11.24.44:883][347]LogSlate: Window 'Tutorials' being destroyed
+[2020.10.24-11.26.07:904][884]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.24-11.27.24:641][297]LogEditorTransaction: Undo Create Pin Link
+[2020.10.24-11.27.24:963][302]LogEditorTransaction: Undo Delete current selection
+[2020.10.24-11.30.02:530][458]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_BlueprintD703353846B8B09772E7D28A46807B62.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.30.02:549][458]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.30.02:549][458]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.30.16:853][279]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_BlueprintDCC6BABB49978C164504D4A9D55D89FD.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.30.16:870][279]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.30.16:870][279]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.31.18:014][778]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_Blueprint8B259F6C47B2B53DE67D69B8C88164DF.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.31.18:031][778]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.31.18:031][778]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.31.22:587][ 43]BlueprintLog: New page: Compile SM_Door_Blueprint
+[2020.10.24-11.31.22:604][ 43]LogBlueprint: Warning: [Compiler SM_Door_Blueprint] Could not find a variable named "act_widget" in 'SM_Door_Blueprint_C'.
+Make sure 'SM_Door_Blueprint_C' has been compiled for  Get act_widget
+[2020.10.24-11.31.22:604][ 43]LogBlueprint: Warning: [Compiler SM_Door_Blueprint] Could not find a variable named "actor_overlap" in 'SM_Door_Blueprint_C'.
+Make sure 'SM_Door_Blueprint_C' has been compiled for  Set actor_overlap
+[2020.10.24-11.31.22:604][ 43]LogBlueprint: Warning: [Compiler SM_Door_Blueprint] Could not find a variable named "actor_overlap" in 'SM_Door_Blueprint_C'.
+Make sure 'SM_Door_Blueprint_C' has been compiled for  Set actor_overlap
+[2020.10.24-11.31.22:606][ 43]LogBlueprint: Error: [Compiler SM_Door_Blueprint] The property associated with  Act Widget  could not be found in '/Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint_C'
+[2020.10.24-11.31.22:606][ 43]LogBlueprint: Error: [Compiler SM_Door_Blueprint] The property associated with  Actor Overlap  could not be found in '/Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint_C'
+[2020.10.24-11.31.22:607][ 43]LogBlueprint: Error: [Compiler SM_Door_Blueprint] The property associated with  Actor Overlap  could not be found in '/Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint_C'
+[2020.10.24-11.31.22:681][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.10.24-11.31.52:122][760]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_Blueprint5F4EEB19434C6092B955F9B96D8D3D26.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.31.52:152][760]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.31.52:152][760]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.31.53:627][839]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_Blueprint54666159465CBF26D7B491B78B85B7DB.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.31.53:645][839]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.31.53:645][839]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.31.53:921][855]BlueprintLog: New page: Compile SM_Door_Blueprint
+[2020.10.24-11.31.53:923][855]LogBlueprint: Warning: [Compiler SM_Door_Blueprint] Could not find a variable named "actor_overlap" in 'SM_Door_Blueprint_C'.
+Make sure 'SM_Door_Blueprint_C' has been compiled for  Set actor_overlap
+[2020.10.24-11.31.53:925][855]LogBlueprint: Error: [Compiler SM_Door_Blueprint] The property associated with  Actor Overlap  could not be found in '/Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint_C'
+[2020.10.24-11.31.53:996][855]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.10.24-11.32.16:080][123]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_BlueprintCA31B614417504F670C164B840D43B81.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.32.16:097][123]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.32.16:097][123]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.32.16:340][136]BlueprintLog: New page: Compile SM_Door_Blueprint
+[2020.10.24-11.32.16:402][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.10.24-11.32.23:440][539]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_Blueprint2993A6FF47CA3D83FF070095E081A939.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.32.23:457][539]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.32.23:457][539]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.33.11:676][295]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_Blueprint0BDE76C14B93AA2CE3D49682BCE687E0.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.33.11:695][295]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.33.11:695][295]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.33.12:320][330]BlueprintLog: New page: Compile SM_Door_Blueprint
+[2020.10.24-11.33.12:391][330]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.10.24-11.33.13:486][393]LogTemp: Repeating last play command: Standalone Game
+[2020.10.24-11.33.13:545][393]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.10.24-11.33.14:477][393]LogSlate: Window 'Save Content' being destroyed
+[2020.10.24-11.33.14:517][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.24-11.33.14:552][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.24-11.33.14:601][393]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMapC489468A4F2DE0EBB1EAEF9586DB65C0.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap'
+[2020.10.24-11.33.14:641][393]LogFileHelpers: Saving map 'NewMap' took 0.124
+[2020.10.24-11.33.14:641][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.10.24-11.33.14:728][393]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap_BuiltDataC15331E7450736464C19688463D4625D.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset'
+[2020.10.24-11.33.14:802][394]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.24-11.33.14:802][394]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.10.24-11.33.14:802][394]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.10.24-11.34.29:940][544]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_BlueprintDE5FA7614A4BA9B68339A68BF25028B3.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.34.29:962][544]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.34.29:963][544]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.35.53:148][145]LogSlate: Took 0.104245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.24-11.36.05:547][812]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_Blueprint060AAD6742E58BB73CE2DAA4A2149426.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.36.05:565][812]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.36.05:565][812]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.36.05:772][824]BlueprintLog: New page: Compile SM_Door_Blueprint
+[2020.10.24-11.36.05:777][824]LogBlueprint: Warning: [Compiler SM_Door_Blueprint] Could not find a variable named "act_widget" in 'SM_Door_Blueprint_C'.
+Make sure 'SM_Door_Blueprint_C' has been compiled for  Set act_widget
+[2020.10.24-11.36.05:779][824]LogBlueprint: Error: [Compiler SM_Door_Blueprint] The property associated with  Act Widget  could not be found in '/Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint_C'
+[2020.10.24-11.36.05:846][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.10.24-11.36.27:423][ 24]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_Blueprint65EF31B5455D9509BCB4A790442425A0.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.36.27:442][ 24]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.36.27:442][ 24]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.36.28:047][ 58]BlueprintLog: New page: Compile SM_Door_Blueprint
+[2020.10.24-11.36.28:107][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.10.24-11.37.20:541][ 55]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_Blueprint28D26EB44150EF9E2DCFA780772F8FF3.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.37.20:559][ 55]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.37.20:559][ 55]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.37.20:834][ 70]BlueprintLog: New page: Compile SM_Door_Blueprint
+[2020.10.24-11.37.20:901][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.10.24-11.37.29:491][549]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.24-11.37.42:018][220]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Standard/FirstPersonBP/Blueprints/Act.Act
+[2020.10.24-11.38.09:639][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Standard/FirstPersonBP/Blueprints/Act" FILE="../../../../../UE Projects/MariaKarelina/Content/Standard/FirstPersonBP/Blueprints/Act.uasset" SILENT=true
+[2020.10.24-11.38.09:700][677]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/Act8BDEEBDF4EEB5012AEB148888EA45272.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/FirstPersonBP/Blueprints/Act.uasset'
+[2020.10.24-11.38.09:729][677]AssetCheck: New page: Asset Save: Act
+[2020.10.24-11.38.09:729][677]LogContentValidation: Display: Validating WidgetBlueprint /Game/Standard/FirstPersonBP/Blueprints/Act.Act
+[2020.10.24-11.38.56:865][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.10.24-11.38.57:538][433]LogEditorViewport: Clicking on Actor (LMB): Ue4ASP_Character_C (Ue4ASP_Character)
+[2020.10.24-11.39.01:793][676]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2020.10.24-11.41.03:617][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Standard/FirstPersonBP/Blueprints/Act" FILE="../../../../../UE Projects/MariaKarelina/Content/Standard/FirstPersonBP/Blueprints/Act.uasset" SILENT=true
+[2020.10.24-11.41.03:646][736]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/Act888EB6C645DA8D5989AB368887C10872.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/FirstPersonBP/Blueprints/Act.uasset'
+[2020.10.24-11.41.03:668][736]AssetCheck: New page: Asset Save: Act
+[2020.10.24-11.41.03:668][736]LogContentValidation: Display: Validating WidgetBlueprint /Game/Standard/FirstPersonBP/Blueprints/Act.Act
+[2020.10.24-11.41.04:219][761]BlueprintLog: New page: Compile Act
+[2020.10.24-11.41.04:442][761]LogUObjectHash: Compacting FUObjectHashTables data took  11.90ms
+[2020.10.24-11.42.44:486][870]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SM_Door_Blueprint19DD649B487044E2127701AE05C3E11C.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/StarterContent/Props/SM_Door_Blueprint.uasset'
+[2020.10.24-11.42.44:507][870]AssetCheck: New page: Asset Save: SM_Door_Blueprint
+[2020.10.24-11.42.44:507][870]LogContentValidation: Display: Validating Blueprint /Game/Standard/StarterContent/Props/SM_Door_Blueprint.SM_Door_Blueprint
+[2020.10.24-11.43.52:745][385]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/SK_FPGun_PhysicsAsset_BlueprintF35E14C942547AF65D1EE094B10A740C.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Standard/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset_Blueprint.uasset'
+[2020.10.24-11.43.52:763][385]AssetCheck: New page: Asset Save: SK_FPGun_PhysicsAsset_Blueprint
+[2020.10.24-11.43.52:763][385]LogContentValidation: Display: Validating Blueprint /Game/Standard/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset_Blueprint.SK_FPGun_PhysicsAsset_Blueprint
+[2020.10.24-11.43.53:096][403]BlueprintLog: New page: Compile SK_FPGun_PhysicsAsset_Blueprint
+[2020.10.24-11.43.53:242][403]LogUObjectHash: Compacting FUObjectHashTables data took   9.98ms
+[2020.10.24-11.43.54:362][455]LogTemp: Repeating last play command: Standalone Game
+[2020.10.24-11.43.54:451][455]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2020.10.24-11.43.55:264][455]LogSlate: Window 'Save Content' being destroyed
+[2020.10.24-11.43.55:303][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.24-11.43.55:351][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.10.24-11.43.55:406][455]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap0762C4654FD57D51EBA41592F0FC6FDB.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap.umap'
+[2020.10.24-11.43.55:452][455]LogFileHelpers: Saving map 'NewMap' took 0.149
+[2020.10.24-11.43.55:452][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.10.24-11.43.55:533][455]LogSavePackage: Moving '../../../../../UE Projects/MariaKarelina/Saved/NewMap_BuiltDataD54AC5AD4228678CBEC66FBDBA92321A.tmp' to '../../../../../UE Projects/MariaKarelina/Content/Levels/NewMap_BuiltData.uasset'
+[2020.10.24-11.43.55:590][456]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.24-11.43.55:590][456]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.10.24-11.43.55:590][456]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.10.24-13.28.28:488][437]LogHttp: Warning: 0000029B23237200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87BF5208-4C05-2283-4846-A09D5B347113%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=366ad9e84349daa0042327a4e01907b6%7C48262887de8046e3bd8ce6687775d7af%7C6ce93a76-725e-46a3-95d6-682df2c7430a&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: request failed, libcurl error: 28 (Timeout was reached)
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 0 (Connection 84 seems to be dead!)
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 1 (Closing connection 84)
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 3 (  Trying 52.7.165.73...)
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 5 (connect to 52.7.165.73 port 443 failed: Timed out)
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 6 (  Trying 35.174.179.172...)
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 7 (TCP_NODELAY set)
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 8 (Connected to datarouter.ol.epicgames.com (35.174.179.172) port 443 (#85))
+[2020.10.24-13.28.28:490][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 9 (ALPN, offering http/1.1)
+[2020.10.24-13.28.28:491][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 10 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.10.24-13.28.28:491][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 11 (SSL re-using session ID)
+[2020.10.24-13.28.28:491][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 12 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.10.24-13.28.28:491][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 13 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.10.24-13.28.28:491][437]LogHttp: Warning: 0000029B23237200: libcurl info message cache 14 (Closing connection 85)
+[2020.10.24-13.28.28:823][438]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87BF5208-4C05-2283-4846-A09D5B347113%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=366ad9e84349daa0042327a4e01907b6%7C48262887de8046e3bd8ce6687775d7af%7C6ce93a76-725e-46a3-95d6-682df2c7430a&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.24-13.30.39:991][830]LogHttp: Warning: 0000029B23237900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87BF5208-4C05-2283-4846-A09D5B347113%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=366ad9e84349daa0042327a4e01907b6%7C48262887de8046e3bd8ce6687775d7af%7C6ce93a76-725e-46a3-95d6-682df2c7430a&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.24-13.30.39:991][830]LogHttp: Warning: 0000029B23237900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.10.24-13.30.39:991][830]LogHttp: Warning: 0000029B23237900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.10.24-13.30.39:991][830]LogHttp: Warning: 0000029B23237900: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.10.24-13.30.39:991][830]LogHttp: Warning: 0000029B23237900: libcurl info message cache 2 (Closing connection 86)
+[2020.10.24-13.30.39:991][830]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87BF5208-4C05-2283-4846-A09D5B347113%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=366ad9e84349daa0042327a4e01907b6%7C48262887de8046e3bd8ce6687775d7af%7C6ce93a76-725e-46a3-95d6-682df2c7430a&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.24-13.32.40:484][190]LogHttp: Warning: 0000029A622AB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87BF5208-4C05-2283-4846-A09D5B347113%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=366ad9e84349daa0042327a4e01907b6%7C48262887de8046e3bd8ce6687775d7af%7C6ce93a76-725e-46a3-95d6-682df2c7430a&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.24-13.32.40:485][190]LogHttp: Warning: 0000029A622AB200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.10.24-13.32.40:485][190]LogHttp: Warning: 0000029A622AB200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.10.24-13.32.40:485][190]LogHttp: Warning: 0000029A622AB200: libcurl info message cache 1 (Closing connection 87)
+[2020.10.24-13.32.40:485][190]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87BF5208-4C05-2283-4846-A09D5B347113%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=366ad9e84349daa0042327a4e01907b6%7C48262887de8046e3bd8ce6687775d7af%7C6ce93a76-725e-46a3-95d6-682df2c7430a&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.24-21.49.33:089][302]LogTemp: Resetting audio stream to device id 
+[2020.10.24-21.49.39:302][302]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.24-21.49.39:302][302]LogAudioMixer: Display: 1: FrontRight
+[2020.10.24-21.49.39:303][302]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.24-21.49.39:303][302]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.24-21.49.39:303][302]LogAudioMixer: Display: 4: BackLeft
+[2020.10.24-21.49.39:303][302]LogAudioMixer: Display: 5: BackRight
+[2020.10.24-21.49.39:303][302]LogAudioMixer: Display: 6: SideLeft
+[2020.10.24-21.49.39:303][302]LogAudioMixer: Display: 7: SideRight
+[2020.10.24-21.49.39:549][303]LogTemp: Resetting audio stream to device id 
+[2020.10.24-21.49.39:615][303]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.24-21.49.39:615][303]LogAudioMixer: Display: 1: FrontRight
+[2020.10.24-21.49.39:615][303]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.24-21.49.39:615][303]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.24-21.49.39:615][303]LogAudioMixer: Display: 4: BackLeft
+[2020.10.24-21.49.39:615][303]LogAudioMixer: Display: 5: BackRight
+[2020.10.24-21.49.39:615][303]LogAudioMixer: Display: 6: SideLeft
+[2020.10.24-21.49.39:615][303]LogAudioMixer: Display: 7: SideRight
+[2020.10.25-09.55.41:105][579]LogHttp: Warning: 0000029A622AAB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87BF5208-4C05-2283-4846-A09D5B347113%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=366ad9e84349daa0042327a4e01907b6%7C48262887de8046e3bd8ce6687775d7af%7C6ce93a76-725e-46a3-95d6-682df2c7430a&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.25-09.55.41:105][579]LogHttp: Warning: 0000029A622AAB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.10.25-09.55.41:106][579]LogHttp: Warning: 0000029A622AAB00: libcurl info message cache 0 (Connection 577 seems to be dead!)
+[2020.10.25-09.55.41:106][579]LogHttp: Warning: 0000029A622AAB00: libcurl info message cache 1 (Closing connection 577)
+[2020.10.25-09.55.41:106][579]LogHttp: Warning: 0000029A622AAB00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.10.25-09.55.41:106][579]LogHttp: Warning: 0000029A622AAB00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.10.25-09.55.41:106][579]LogHttp: Warning: 0000029A622AAB00: libcurl info message cache 4 (Closing connection 578)
+[2020.10.25-09.55.41:413][580]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87BF5208-4C05-2283-4846-A09D5B347113%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=366ad9e84349daa0042327a4e01907b6%7C48262887de8046e3bd8ce6687775d7af%7C6ce93a76-725e-46a3-95d6-682df2c7430a&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.25-14.00.45:858][561]LogTemp: Resetting audio stream to device id 
+[2020.10.25-14.00.49:428][561]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.25-14.00.49:428][561]LogAudioMixer: Display: 1: FrontRight
+[2020.10.25-14.00.49:428][561]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.25-14.00.49:428][561]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.25-14.00.49:428][561]LogAudioMixer: Display: 4: BackLeft
+[2020.10.25-14.00.49:428][561]LogAudioMixer: Display: 5: BackRight
+[2020.10.25-14.00.49:428][561]LogAudioMixer: Display: 6: SideLeft
+[2020.10.25-14.00.49:428][561]LogAudioMixer: Display: 7: SideRight
+[2020.10.25-14.00.49:733][562]LogTemp: Resetting audio stream to device id 
+[2020.10.25-14.00.49:826][562]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.25-14.00.49:826][562]LogAudioMixer: Display: 1: FrontRight
+[2020.10.25-14.00.49:826][562]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.25-14.00.49:826][562]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.25-14.00.49:826][562]LogAudioMixer: Display: 4: BackLeft
+[2020.10.25-14.00.49:826][562]LogAudioMixer: Display: 5: BackRight
+[2020.10.25-14.00.49:826][562]LogAudioMixer: Display: 6: SideLeft
+[2020.10.25-14.00.49:826][562]LogAudioMixer: Display: 7: SideRight
+[2020.10.25-23.01.36:702][576]LogTemp: Resetting audio stream to device id 
+[2020.10.25-23.02.06:804][576]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.25-23.02.06:804][576]LogAudioMixer: Display: 1: FrontRight
+[2020.10.25-23.02.06:804][576]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.25-23.02.06:804][576]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.25-23.02.06:804][576]LogAudioMixer: Display: 4: BackLeft
+[2020.10.25-23.02.06:804][576]LogAudioMixer: Display: 5: BackRight
+[2020.10.25-23.02.06:804][576]LogAudioMixer: Display: 6: SideLeft
+[2020.10.25-23.02.06:804][576]LogAudioMixer: Display: 7: SideRight
+[2020.10.25-23.02.07:440][577]LogTemp: Resetting audio stream to device id 
+[2020.10.25-23.02.07:485][577]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.25-23.02.07:485][577]LogAudioMixer: Display: 1: FrontRight
+[2020.10.25-23.02.07:485][577]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.25-23.02.07:485][577]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.25-23.02.07:485][577]LogAudioMixer: Display: 4: BackLeft
+[2020.10.25-23.02.07:485][577]LogAudioMixer: Display: 5: BackRight
+[2020.10.25-23.02.07:485][577]LogAudioMixer: Display: 6: SideLeft
+[2020.10.25-23.02.07:485][577]LogAudioMixer: Display: 7: SideRight
+[2020.10.26-10.58.54:250][222]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.26-10.58.54:250][222]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
